@@ -1,0 +1,15 @@
+# Co-CEO Agent Configuration
+# See: https://opencompany.dev/docs/agents
+
+skills:
+  - opencompany/first-principles-thinking
+  - opencompany/yc-group-partner-advice
+
+instructions:
+  - soul.md
+  - behavior.md
+
+knowledge: []
+
+memory:
+  - memory.md

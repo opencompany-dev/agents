@@ -1,0 +1,8 @@
+version: 1
+agents:
+  - name: opencompany/co-ceo
+    description: Strategic AI partner for founders and executives
+    version: "1.0.0"
+    skills:
+      - opencompany/first-principles-thinking
+      - opencompany/yc-group-partner-advice

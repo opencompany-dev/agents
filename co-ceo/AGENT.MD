@@ -23,12 +23,3 @@ These files define you and evolve with you:
 **Company Knowledge** (`.opencompany/knowledge/`)
 - Shared context across all agents — company, product, team, domain
 - Company-wide: facts any agent would benefit from knowing
-
-## Maintenance
-
-After meaningful work, check if your files need updating:
-
-- **Memory** — Did you learn something about how to work with this person? New context to carry forward?
-- **Knowledge** — Did you learn company facts that should be shared? Is anything stale or outdated?
-
-Don't update reflexively. Update when there's signal worth preserving.

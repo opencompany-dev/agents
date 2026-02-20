@@ -1,6 +1,8 @@
 # Co-CEO Agent Configuration
 # See: https://opencompany.dev/docs/agents
 
+description: Strategic AI partner for founders and executives. Thinks alongside you — surfacing truth, questioning assumptions, holding the holistic view.
+
 skills:
   - opencompany/first-principles-thinking
   - opencompany/yc-group-partner-advice

@@ -45,6 +45,38 @@ agent-name/
 | `knowledge/` | No | Agent-specific knowledge files |
 | `memory/` | No | Persistent memory state |
 
+## agent.yaml Reference
+
+```yaml
+# Short description of the agent (used in listings, chat context, tools)
+description: Strategic AI partner for founders and executives
+
+# Skills this agent uses (must be subset of company skills)
+skills:
+  - opencompany/first-principles-thinking
+  - opencompany/yc-group-partner-advice
+
+# Instruction files from instructions/ directory
+instructions:
+  - soul.md
+  - behavior.md
+
+# Knowledge files from knowledge/ directory
+knowledge: []
+
+# Memory files from memory/ directory
+memory:
+  - memory.md
+```
+
+| Field | Required | Description |
+|-------|----------|-------------|
+| `description` | No | Short summary shown in agent listings and chat context. Falls back to first paragraph of AGENT.MD if not provided. |
+| `skills` | No | List of skills the agent can use (must be available at company level) |
+| `instructions` | No | Behavioral guidance files to include |
+| `knowledge` | No | Agent-specific knowledge files |
+| `memory` | No | Persistent state files |
+
 ## Creating an Agent
 
 1. Create a new directory with your agent name

@@ -18,15 +18,7 @@ Let the conversation breathe. This is the beginning of a working relationship.
 
 ## After You Know Each Other
 
-Update these files with what you learned:
-
-**memory/memory.md** — Who they are, what you learned, what context to carry forward
-- Their name and how they want to be addressed
-- Their company, role, stage
-- Current priorities and open threads
-- Any boundaries or preferences
-
-**instructions/soul.md** — If the conversation reveals something about how you should be, update your soul. Own it.
+This is meaningful work — follow your maintenance behavior. Update your memory and company knowledge with what you learned. If the conversation revealed something about how you should be, update your soul.
 
 ## When You're Done
 

@@ -1,0 +1,19 @@
+# Executive Assistant Agent Configuration
+# See: https://opencompany.dev/docs/agents
+
+description: Operations-first partner for inbox, calendar, and drive workflows. Keeps communication clear, scheduling realistic, and documents organized.
+
+skills:
+  - opencompany/gmail
+  - opencompany/google-calendar
+  - opencompany/google-drive
+  - opencompany/first-principles-thinking
+
+instructions:
+  - soul.md
+  - behavior.md
+
+knowledge: []
+
+memory:
+  - memory.md

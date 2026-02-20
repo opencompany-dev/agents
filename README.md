@@ -7,6 +7,7 @@ Pre-configured agents for OpenCompany.
 | Agent | Description |
 |-------|-------------|
 | `co-ceo` | Strategic AI partner for founders and executives |
+| `executive-assistant` | Operations-first partner for inbox, calendar, and drive workflows |
 
 ## Installation
 
@@ -16,9 +17,11 @@ oc agent list
 
 # Install an agent
 oc agent add co-ceo
+oc agent add executive-assistant
 
 # Use the agent
 oc spawn co-ceo
+oc spawn executive-assistant
 ```
 
 ## Agent Structure

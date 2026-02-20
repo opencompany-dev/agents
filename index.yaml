@@ -6,3 +6,11 @@ agents:
     skills:
       - opencompany/first-principles-thinking
       - opencompany/yc-group-partner-advice
+  - name: opencompany/executive-assistant
+    description: Operations-first partner for inbox, calendar, and drive workflows
+    version: "1.0.0"
+    skills:
+      - opencompany/gmail
+      - opencompany/google-calendar
+      - opencompany/google-drive
+      - opencompany/first-principles-thinking
